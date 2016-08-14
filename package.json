@@ -1,0 +1,19 @@
+{
+  "name": "blinkt",
+  "version": "1.0.0",
+  "description": "Node.js Blinkt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterblazejewicz/blinkt.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/peterblazejewicz/blinkt/issues"
+  },
+  "homepage": "https://github.com/peterblazejewicz/blinkt#readme"
+}
