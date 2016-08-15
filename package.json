@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/peterblazejewicz/blinkt/issues"
   },
-  "homepage": "https://github.com/peterblazejewicz/blinkt#readme"
+  "homepage": "https://github.com/peterblazejewicz/blinkt#readme",
+  "dependencies": {
+    "wiring-pi": "^2.1.1"
+  }
 }
