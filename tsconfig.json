@@ -6,7 +6,6 @@
         "isolatedModules": true,
         "module": "commonjs",
         "noImplicitAny": false,
-        "noLib": true,
         "outDir": "lib",
         "preserveConstEnums": true,
         "removeComments": false,
